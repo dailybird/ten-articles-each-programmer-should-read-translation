@@ -2,7 +2,7 @@
 
 ---
 
-> 原文：[On the Criteria To Be Used in Decomposing Systems into Modules][1]
+> 原文：[On the Criteria To Be Used in Decomposing Systems into Modules][1]  
 作者：D.L. Parnas Carnegie-Mellon University
 
 ## 摘要
@@ -146,7 +146,7 @@
 ---
 ## 译者注
 
-> 译者：dailybird
+> 译者：dailybird  
 译于：2017.3.19
 
 ### KWIC
